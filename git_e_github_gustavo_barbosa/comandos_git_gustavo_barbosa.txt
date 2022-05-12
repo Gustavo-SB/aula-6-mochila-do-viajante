@@ -1,0 +1,19 @@
+git init: iniciar um novo repositório local
+
+git clone: comando para clone um repositório já existe
+
+git add: comando que inclui as alterações de um arquivo no próximo commit
+
+git commit: comando de ponto de verificação no processo de desenvolvimento
+
+git push: comando que envia as alterações salvas num commit
+
+git pull: comando que puxa todas as novas alterações de uma ou todas as branch
+
+git branch: comando para criar, listar e excluir branches
+
+git checkout: comando para alterar a branch sendo utilizada
+
+git merge: comando que mescla as alterações da branch A para B
+
+git status: comando que lista informações e status da branch que está sendo utilizada
